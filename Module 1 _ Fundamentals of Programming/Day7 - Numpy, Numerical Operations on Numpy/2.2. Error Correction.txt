@@ -1,0 +1,4 @@
+population.txt At 4:34 it is mentioned that if a and b are two matrices, 
+then a*b and a.dot(b) are same, which is not true. 
+a*b is just matrix multiplication (element wise) provided both the matrices have same shape. 
+Whereas matrix-matrix multiplication involves dot product (matrices having their shapes reverse of each other)
